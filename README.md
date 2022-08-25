@@ -1,2 +1,0 @@
-# numinaFE
-Numina front end
