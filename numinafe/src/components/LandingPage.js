@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import LineChart from './LineChart';
-const apiUrl = "http://localhost:3000";
+const apiUrl = "http://localhost:3001";
 
 function LandingPage() {
   const [actionText, setActionText] = useState('Add');
